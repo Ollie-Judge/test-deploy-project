@@ -1,7 +1,7 @@
 function newPage() {
   return (
     <>
-      <a href="/" target="_blank" rel="noopener noreferrer">
+      <a href="/home" target="_blank" rel="noopener noreferrer">
         home
       </a>
       <div>
