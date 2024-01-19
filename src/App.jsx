@@ -1,5 +1,5 @@
 import "./App.css";
-import MainText from "./MainText";
+import MainText from "./components/MainText";
 
 function App() {
   return (
